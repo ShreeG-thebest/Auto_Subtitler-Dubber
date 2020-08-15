@@ -1,2 +1,2 @@
-# Auto_Subtitler-Dubber
-This project takes a video or audio file (mp4 or mp3) in english and converts into subtitles for other languages or dubs it using machine learning algorithms to detect when facial movements occur in accordance with when voices are spoken. This project specifically uses PHP for its algorithmic components. For the machine learning component, python is used to compute the 
+# Auto_Subtitler-Dubbers
+This project aims to translate, dub and overlay video and audio files in other languages using modulated voices as well as subtitles for video files. This program accomplishes all this in real time, through using many different machine learning algorithms to detect when people are speaking, when mouths are moving and when mouths aren't moving (which is arguably more important). 
