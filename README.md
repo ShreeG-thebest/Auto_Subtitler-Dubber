@@ -10,7 +10,7 @@ To maximize accuracy of dubbing voices while acters are moving their mouths, I u
 # How did I integrate the variables into my final code?
 Once I had isolated these two variables, and could accurately test when someone was talking and then when someone was moving their lips, all I had to do was add pre-written subtitles for the shows to my datasets, and fed them through a translation software to convert them to my desired language. I then used an google's open source audio overlay to generate computer generated voices to overlay on top of the episode. 
 
-# Machine learning compnent:
+# Machine learning component:
 I used unsupervised learning because I did not have a correct end result to show the computer. Within unspervised learning, I used association rule learning and FP Growth. Within a few thousand iterations, the program could accurately predict and pinpoint when characters were talking and overlay the translated rules. 
 
 # Results
